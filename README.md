@@ -3,7 +3,8 @@
 
 ThreeJS kullanarak yazdığım 3d yılan oyunu
 
-https://mkproje.com.tr/snake/index.html linkinden deneyebilirsiniz. 
+Canlı Demo:
+https://mkproje.com.tr/snake/index.html 
 
 Başlamak ve durdurmak içi P tuşuna basın.
 Oynamak için OK tuşlarını veya W,A,S,D tuşlarını kullanın.
